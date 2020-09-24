@@ -13,6 +13,7 @@ Improvements 🙌:
  - Allow using an outdated homeserver, at user's risk (#1972)
  - Restore small logo on login screens and fix scrolling issue on those screens
  - Small optimisation of scrolling experience in timeline
+ - PIN Code Improvements: Add more settings: biometrics, grace period, notification content (#1985)
 
 Bugfix 🐛:
  - Long message cannot be sent/takes infinite time & blocks other messages #1397
@@ -20,6 +21,7 @@ Bugfix 🐛:
  - Manual import of Megolm keys does back up the imported keys
  - Auto scrolling to the latest message when sending (#2094)
  - Fix incorrect permission check when creating widgets (#2137)
+ - Pin code: user has to enter pin code twice (#2005)
 
 Translations 🗣:
  -
