@@ -12,6 +12,7 @@ Improvements 🙌:
  - Use cache for user color
  - Allow using an outdated homeserver, at user's risk (#1972)
  - Restore small logo on login screens and fix scrolling issue on those screens
+ - Small optimisation of scrolling experience in timeline
 
 Bugfix 🐛:
  - Long message cannot be sent/takes infinite time & blocks other messages #1397
